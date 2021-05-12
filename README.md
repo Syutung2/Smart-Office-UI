@@ -4,18 +4,21 @@ A new Flutter project.
 
 ## Getting Started
 
-lib                        
-├─ MainPages               
-│  ├─ StudengPages         
-│  │  ├─ studentmine.dart  
-│  │  └─ stuenthome.dart   
-│  ├─ TeacherPages         
-│  │  ├─ teacherhome.dart  
-│  │  └─ teachermine.dart  
-│  ├─ admin.dart           
-│  ├─ student.dart         
-│  └─ teacher.dart         
-├─ tools                   
-│  ├─ global_tools.dart    
-│  └─ pick_tools.dart      
-└─ main.dart               
+lib                          
+├─ MainPages                 
+│  ├─ AdminPages             
+│  │  ├─ add.dart            
+│  │  ├─ adminhome.dart      
+│  │  └─ xiangmuguanli.dart  
+│  ├─ StudengPages           
+│  │  └─ stuenthome.dart     
+│  ├─ TeacherPages           
+│  │  └─ teacherhome.dart    
+│  ├─ admin.dart             
+│  ├─ mine.dart              
+│  ├─ student.dart           
+│  └─ teacher.dart           
+├─ tools                     
+│  ├─ global_tools.dart      
+│  └─ pick_tools.dart        
+└─ main.dart                 
